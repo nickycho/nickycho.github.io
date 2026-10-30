@@ -10,3 +10,5 @@ lang: en
 - [繁體中文]({{ '/apps/photo-sync/privacy/zh-Hant/' | relative_url }})
 - [日本語]({{ '/apps/photo-sync/privacy/ja/' | relative_url }})
 - [한국어]({{ '/apps/photo-sync/privacy/ko/' | relative_url }})
+
+For help using the app, visit [Photo Sync Support]({{ '/apps/photo-sync/support/' | relative_url }}).

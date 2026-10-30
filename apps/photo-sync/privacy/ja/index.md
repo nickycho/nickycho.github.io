@@ -1,15 +1,14 @@
 ---
 layout: default
-title: "プライバシーポリシー — 写真同期"
+title: "写真同期プライバシーポリシー"
 lang: "ja"
 ---
 
-> 内部確認用の草案です。公開前に角括弧内をすべて置き換え、最終版のアプリとSDKの動作を確認し、発行者が内容を確認してください。
+# プライバシーポリシー（日本語）
 
 **発行者：** Han Peng Cho
-**発効日：** [公開日]
-**サポート連絡先：** [サポートメールアドレス]
-**公開ポリシーURL：** https://nickycho.github.io/apps/photo-sync/privacy/ja/
+**発効日：** 2026年10月30日
+**サポート連絡先：** [funworks.apps@gmail.com](mailto:funworks.apps@gmail.com)
 
 ## 写真同期が取り扱う情報
 
@@ -29,8 +28,8 @@ SMBサーバーに保存されたファイルは、利用者とサーバー管�
 
 ## お問い合わせと変更
 
-プライバシーに関するお問い合わせは [サポートメールアドレス] までご連絡ください。本ポリシーは Han Peng Cho が公開します。改訂版を公開する際は発効日を更新します。
+プライバシーに関するお問い合わせは [funworks.apps@gmail.com](mailto:funworks.apps@gmail.com) までご連絡ください。本ポリシーは Han Peng Cho が公開します。改訂版を公開する際は発効日を更新します。
 
 ## 本ポリシーサイトについて
 
-本ポリシーサイトは GitHub Pages でホストされています。GitHub はセキュリティ目的で訪問者の IP アドレスを記録すると説明しています。詳細は [GitHub General Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement) をご覧ください。Photo Sync アプリが写真、ビデオ、SMB 認証情報またはバックアップファイルを GitHub に送信することはありません。この説明はポリシーサイトへのアクセスに関するものであり、アプリの SMB 転送先を変更するものではありません。
+本ポリシーサイトは GitHub Pages でホストされています。GitHub のプライバシー声明では、IP アドレスをサービス利用情報として収集し、安全性とセキュリティを個人データ処理の目的として説明しています。詳細は [GitHub General Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement) をご覧ください。Photo Sync アプリが写真、ビデオ、SMB 認証情報またはバックアップファイルを GitHub に送信することはありません。この説明はポリシーサイトへのアクセスに関するものであり、アプリの SMB 転送先を変更するものではありません。

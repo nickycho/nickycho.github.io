@@ -1,15 +1,14 @@
 ---
 layout: default
-title: "隱私權政策 — 照片同步"
+title: "照片同步隱私權政策"
 lang: "zh-Hant"
 ---
 
-> 僅供內部審閱。發布前請替換所有方括號欄位、確認最終 App 與 SDK 行為，並由發行者審閱內容。
+# 隱私權政策（繁體中文）
 
 **發行者：** Han Peng Cho
-**生效日期：** [公開日期]
-**支援聯絡方式：** [支援電子郵件]
-**公開政策網址：** https://nickycho.github.io/apps/photo-sync/privacy/zh-Hant/
+**生效日期：** 2026 年 10 月 30 日
+**支援聯絡方式：** [funworks.apps@gmail.com](mailto:funworks.apps@gmail.com)
 
 ## 照片同步會處理的資訊
 
@@ -29,8 +28,8 @@ SMB 主機、連接埠、分享名稱、資料夾、網域及使用者名稱會�
 
 ## 聯絡方式與政策更新
 
-如有隱私問題，請聯絡 [支援電子郵件]。本政策由 Han Peng Cho 發布。政策更新時，發行者會更新生效日期。
+如有隱私問題，請聯絡 [funworks.apps@gmail.com](mailto:funworks.apps@gmail.com)。本政策由 Han Peng Cho 發布。政策更新時，發行者會更新生效日期。
 
 ## 關於本政策網站
 
-本政策網站由 GitHub Pages 託管。GitHub 說明會為安全目的記錄訪客 IP 位址；詳情請參閱 [GitHub 一般隱私權聲明](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)。Photo Sync App 不會將照片、影片、SMB 認證資料或備份檔案傳送給 GitHub。這項說明適用於造訪政策網站，不會改變 App 備份檔案只傳送到使用者指定 SMB 目的地的方式。
+本政策網站由 GitHub Pages 託管。GitHub 隱私權聲明將 IP 位址列為其蒐集的服務使用資料，並說明個人資料會用於安全等目的；詳情請參閱 [GitHub 一般隱私權聲明](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)。Photo Sync App 不會將照片、影片、SMB 認證資料或備份檔案傳送給 GitHub。這項說明適用於造訪政策網站，不會改變 App 備份檔案只傳送到使用者指定 SMB 目的地的方式。

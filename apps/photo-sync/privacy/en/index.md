@@ -4,12 +4,11 @@ title: "Privacy Policy — Photo Sync"
 lang: "en"
 ---
 
-> Internal draft only. Before publication, replace every bracketed value, confirm the final app and SDK behavior, and have the publisher review the text.
+# Privacy Policy (English)
 
 **Publisher:** Han Peng Cho
-**Effective date:** [PUBLICATION DATE]
-**Support contact:** [SUPPORT EMAIL]
-**Public policy URL:** https://nickycho.github.io/apps/photo-sync/privacy/en/
+**Effective date:** 30 October 2026
+**Support contact:** [funworks.apps@gmail.com](mailto:funworks.apps@gmail.com)
 
 ## Information Photo Sync handles
 
@@ -29,8 +28,8 @@ You choose when a backup starts and which Photos resources the app can access. Y
 
 ## Contact and changes
 
-For privacy questions, contact [SUPPORT EMAIL]. This policy is published by Han Peng Cho. The publisher will update the effective date when a revised policy is published.
+For privacy questions, contact [funworks.apps@gmail.com](mailto:funworks.apps@gmail.com). This policy is published by Han Peng Cho. The publisher will update the effective date when a revised policy is published.
 
 ## About this policy website
 
-This policy website is hosted by GitHub Pages. GitHub states that it logs visitors’ IP addresses for security purposes. See the [GitHub General Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement). The Photo Sync app does not send photos, videos, SMB credentials, or backup files to GitHub. This notice concerns visits to the policy website; it does not change the app’s SMB backup destination.
+This policy website is hosted by GitHub Pages. GitHub’s privacy statement lists IP addresses among the service usage information it collects and describes safety and security as purposes for processing personal data. See the [GitHub General Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement). The Photo Sync app does not send photos, videos, SMB credentials, or backup files to GitHub. This notice concerns visits to the policy website; it does not change the app’s SMB backup destination.

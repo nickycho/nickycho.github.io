@@ -1,15 +1,14 @@
 ---
 layout: default
-title: "개인정보 처리방침 — 사진 동기화"
+title: "사진 동기화 개인정보 처리방침"
 lang: "ko"
 ---
 
-> 내부 검토용 초안입니다. 공개 전에 대괄호 항목을 모두 바꾸고 최종 앱 및 SDK 동작을 확인한 뒤 발행자가 내용을 검토해야 합니다.
+# 개인정보 처리방침 (한국어)
 
 **발행자:** Han Peng Cho
-**시행일:** [공개일]
-**지원 연락처:** [지원 이메일]
-**공개 정책 URL:** https://nickycho.github.io/apps/photo-sync/privacy/ko/
+**시행일:** 2026년 10월 30일
+**지원 연락처:** [funworks.apps@gmail.com](mailto:funworks.apps@gmail.com)
 
 ## 사진 동기화가 처리하는 정보
 
@@ -29,8 +28,8 @@ SMB 서버에 저장된 파일은 사용자와 서버 관리자가 관리합니�
 
 ## 문의 및 변경
 
-개인정보 관련 문의는 [지원 이메일]로 보내 주세요. 이 정책은 Han Peng Cho가 게시합니다. 정책을 개정해 공개할 때 시행일을 업데이트합니다.
+개인정보 관련 문의는 [funworks.apps@gmail.com](mailto:funworks.apps@gmail.com)로 보내 주세요. 이 정책은 Han Peng Cho가 게시합니다. 정책을 개정해 공개할 때 시행일을 업데이트합니다.
 
 ## 이 정책 웹사이트에 관해
 
-이 정책 웹사이트는 GitHub Pages에서 호스팅됩니다. GitHub는 보안을 위해 방문자의 IP 주소를 기록한다고 설명합니다. 자세한 내용은 [GitHub 일반 개인정보 처리방침](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)을 참고하세요. Photo Sync 앱은 사진, 비디오, SMB 인증 정보 또는 백업 파일을 GitHub에 보내지 않습니다. 이 안내는 정책 웹사이트 방문에 관한 것이며 앱의 SMB 백업 대상을 변경하지 않습니다.
+이 정책 웹사이트는 GitHub Pages에서 호스팅됩니다. GitHub 개인정보 보호 성명에는 IP 주소가 서비스 사용 정보로 수집된다고 나와 있으며, 개인 정보 처리 목적에 안전 및 보안이 포함됩니다. 자세한 내용은 [GitHub 일반 개인정보 처리방침](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)을 참고하세요. Photo Sync 앱은 사진, 비디오, SMB 인증 정보 또는 백업 파일을 GitHub에 보내지 않습니다. 이 안내는 정책 웹사이트 방문에 관한 것이며 앱의 SMB 백업 대상을 변경하지 않습니다.
