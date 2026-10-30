@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="{{ page.lang | default: 'en' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }} · {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}">
+</head>
+<body>
+  <header class="site-header">
+    <a href="{{ '/' | relative_url }}">Han Peng Cho · App Policies</a>
+  </header>
+  <main>{{ content }}</main>
+  <footer>Published by Han Peng Cho</footer>
+</body>
+</html>

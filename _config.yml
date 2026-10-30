@@ -1,0 +1,6 @@
+title: Han Peng Cho — App Policies
+description: Privacy policies and support information for published apps.
+url: https://nickycho.github.io
+baseurl: ""
+exclude:
+  - README.md
