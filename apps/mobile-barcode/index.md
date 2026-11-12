@@ -8,7 +8,7 @@ lang: zh-Hant
 
 把台灣手機條碼放在 App 或主畫面小工具，結帳時快速出示。台灣限定，免費提供。
 
-![手機條碼 App 主畫面，畫面使用示範條碼]({{ '/apps/mobile-barcode/assets/iphone17-main.png' | relative_url }})
+![手機條碼 App 主畫面，畫面使用示範條碼]({{ '/apps/mobile-barcode/assets/iphone17-main.jpg' | relative_url }})
 
 ## 功能
 
