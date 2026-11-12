@@ -1,12 +1,13 @@
 ---
 layout: default
-title: 手機條碼隱私權政策
+title: 發票載具條碼隱私權政策
 lang: zh-Hant
 ---
 
 # 隱私權政策
 
-**App：** 手機條碼  
+**App Store 名稱：** 發票載具條碼  
+**App 內名稱：** 手機條碼  
 **發行者：** Han Peng Cho  
 **生效日期：** 2026 年 11 月 12 日  
 **隱私聯絡方式：** [funworks.apps@gmail.com](mailto:funworks.apps@gmail.com)
@@ -15,7 +16,7 @@ lang: zh-Hant
 
 你輸入的手機條碼會保存在此裝置的 App Group 設定中，讓「手機條碼」App 和其小工具共用，以顯示條碼與號碼。此版本不建立帳號、不含廣告或分析 SDK，也沒有將條碼傳送至開發者伺服器的功能。
 
-App 不會透過開發者營運的服務收集手機條碼或其他個人資料。依目前程式碼，App Privacy 的資料蒐集項目應為「未蒐集資料」；送審前仍須由發行者在 App Store Connect 確認。
+App 不會透過開發者營運的服務收集手機條碼或其他個人資料。App Store Connect 的 App Privacy 已公開標示「不收集資料」。若 App 的資料處理方式改變，發行者會立即重新檢視並更新該聲明。
 
 ## 保存與刪除
 
